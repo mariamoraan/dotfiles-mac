@@ -9,6 +9,15 @@ tap 'homebrew/bundle'
 # This is used to don't turn off the screen when idle
 # cask 'caffeine'
 
+# Tool to prevent the system from going into sleep mode
+cask 'keepingyouawake'
+
+# Tool for ontrol your tools with a few keystrokes
+cask 'raycast'
+
+# For Design, debug, and test APIs locally or in the cloud
+cask 'insomnia'
+
 # This is used to move windows and resize it.
 # cask 'hammerspoon'
 
@@ -109,7 +118,7 @@ cask 'visual-studio-code'
 # ============================================================================
 
 # To listen to music
-# cask 'spotify'
+cask 'spotify'
 
 # ============================================================================
 # DevOps. This should be installed per project, instead of in the system.
