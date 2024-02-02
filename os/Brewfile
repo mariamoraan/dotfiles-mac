@@ -18,6 +18,9 @@ cask 'raycast'
 # For Design, debug, and test APIs locally or in the cloud
 cask 'insomnia'
 
+# Screenshot measurement and annotation tool
+cask 'shottr'
+
 # This is used to move windows and resize it.
 # cask 'hammerspoon'
 
