@@ -45,7 +45,7 @@ cask 'shottr'
 # ============================================================================
 
 # cask 'firefox'
-# cask 'google-chrome'
+cask 'google-chrome'
 # cask 'brave-browser'
 # cask 'qutebrowser'
 # cask 'opera-gx'
@@ -78,10 +78,10 @@ cask 'visual-studio-code'
 # ============================================================================
 
 # Replacement for Terminal on macOS
-# cask 'iterm2'
+cask 'iterm2'
 
 # Version control of text stuff
-# brew 'git'
+brew 'git'
 
 # Editor
 # brew 'vim'
@@ -100,7 +100,7 @@ cask 'visual-studio-code'
 # brew 'thefuck'
 
 # To use the commandline "tree" useful for write project structures
-# brew 'tree'
+brew 'tree'
 
 # To view json files
 # brew 'jq'
@@ -142,7 +142,7 @@ cask 'spotify'
 # Virtualization
 # cask 'vagrant'
 # cask 'virtualbox'
-# cask 'docker'
+cask 'docker'
 # brew 'packer'
 # brew 'minikube'
 # brew 'helm'
